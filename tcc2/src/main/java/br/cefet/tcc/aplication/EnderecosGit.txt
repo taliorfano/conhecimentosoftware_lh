@@ -1,0 +1,52 @@
+Junit4:
+public String pathRepository = "/home/talita/git/junit4/.git";
+public String tagCurrentString = "r4.12";
+
+Guice:
+public String pathRepository = "/home/talita/git/guice/.git";
+public String tagCurrentString = "4.1";
+
+Glide:
+public String pathRepository = "/home/talita/git/glide/.git";
+public String tagCurrentString = "v3.7.0";
+
+Wikidata-Toolkit:
+public String pathRepository = "/home/talita/git/Wikidata-Toolkit/.git";
+public String tagCurrentString = "v0.7.0";
+
+JRS:
+public String pathRepository = "/home/talita/git/jrs-rest-java-client/.git";
+public String tagCurrentString = "6.1.5";
+
+AndroidAnnotations:
+public String pathRepository = "/home/talita/git/androidannotations/.git";
+public String tagCurrentString = "androidannotations-4.1.0";
+
+Titan:
+public String pathRepository = "/home/talita/git/titan/.git";
+public String tagCurrentString = "1.0.0";
+
+Joda:
+public String pathRepository = "/home/talita/git/joda-time/.git";
+public String tagCurrentString = "v2.9.4";
+
+Slf4j:
+public String pathRepository = "/home/talita/git/slf4j/.git";
+public String tagCurrentString = "v_1.7.2";
+
+Log4j:
+public String pathRepository = "/home/talita/git/log4j/.git";
+public String tagCurrentString = "v1_2_17";
+
+Hibernate-orm:
+public String pathRepository = "/home/talita/git/hibernate-orm/.git";
+public String tagCurrentString = "5.2.0";
+
+JSpaceAlertMissionGenerator:
+public String pathRepository = "/home/talita/git/JSpaceAlertMissionGenerator/.git";
+public String tagCurrentString = "v1.2.1";
+
+Tomcat:
+public String pathRepository = "/home/talita/git/tomcat/.git";
+public String tagCurrentString = "TOMCAT_9_0_0_M10";
+	

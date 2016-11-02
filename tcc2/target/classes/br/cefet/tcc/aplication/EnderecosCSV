@@ -1,0 +1,4 @@
+Wikidata-Toolkit:
+String pathOwnership = "/home/talita/AutoriaCSV/ownership_wikidata.csv";
+String pathLittleHouse = "/home/talita/AutoriaCSV/wikidata1.csv";
+
